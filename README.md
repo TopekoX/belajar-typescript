@@ -4,9 +4,9 @@
 
 Typescript dependency:
 
-* Node
+* [Node](https://nodejs.org/en/)
 * npm
-* tsc
+* [tsc](https://www.typescriptlang.org/)
 
 Compile file `filename.ts`, and will make new file javascript `filename.js`:
 
