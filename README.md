@@ -1,6 +1,6 @@
 ## Belajar Typescript
 
-###Dependency
+### Dependency
 
 Typescript need dependency:
 
