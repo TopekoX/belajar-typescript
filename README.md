@@ -8,7 +8,7 @@ Typescript need dependency:
 * npm
 * tsc
 
-Compile file `*.ts`:
+Compile file `filename.ts`, and will make new file javascript `filename.js`:
 
 ```
 tsc hello.ts
