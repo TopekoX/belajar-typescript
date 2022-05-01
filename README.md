@@ -1,6 +1,9 @@
-### Belajar Typescript
+## Belajar Typescript
 
-** Dependency **
+###Dependency
+
+Typescript need dependency:
+
 * Node
 * npm
 * tsc
@@ -13,6 +16,6 @@ tsc hello.ts
 
 Run
 
-``
+```
 node hello.js
 ```
